@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Luís Deschamps Rudge",
+    "label": "Developer",
+    "picture": "https://s.gravatar.com/avatar/72956a2f6ee6c25ad00d194cf7543719?s=200",
+    "email": "luis@luisrudge.net",
+    "phone": "+55 (48) 9172-1214",
+    "website": "luisrudge.net",
+    "summary": "I'm passionate about technology and writing code. I love using my skills to create and improve products and services.  I started as a software developer in a small company and that put me in contact with many new technologies. For me, there's no better way to learn new stuff than working with small companies and startups. I went from the new guy to someone always bringing new tech to the team and constantly pushing it forward through internal presentations.  After moving back to Florianópolis, I started contributing with the local .NET user group. My first talk was insane. I was in a room full of people waiting to learn more about something from me and I was nervous, but even more excited! That was the tipping point for me. I knew I wanted to do more of that and so I started my blog.  I'm currently working for a company dealing with massive amounts of data and that brought me close to the cloud. We use Microsoft Azure and AWS a lot and I'm currently the guy in charge of automating and managing most of the things in that area.  These years I've being delivering talks in many conferences like The Developers Conference (Florianópolis, Porto Alegre and São Paulo) and even helping to organize events like the Global Windows Azure Summit in Florianópolis. I was part of a team that tested the Azure Datacenter in Brazil (I'm an Azure Insider!) and also created a new series of videos to get people get up to speed with modern apps and Microsoft Azure.",
+    "location": {
+      "address": "Rua dos Lordes, 595 ap 205 - Ingleses",
+      "postalCode": "88058-525",
+      "city": "Florianópolis",
+      "countryCode": "BR",
+      "region": "Santa Catarina"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "luisrudge",
+      "url": "https://twitter.com/luisrudge"
+    }, {
+      "network": "Github",
+      "username": "luisrudge",
+      "url": "https://github.com/luisrudge"
+    }, {
+      "network": "Skype",
+      "username": "luis_rudge",
+      "url": ""
+    }]
+  },
+  "work": [{
+    "company": "Way2 Technology",
+    "position": "Developer",
+    "website": "http://way2.com.br/en/",
+    "startDate": "2013-04-08",
+    "summary": "Way2 is a software and service company focused on the electricity sector. We develop software that allows our clients to perform remote metering of electricity from the point of generation all the way to the end consumer, passing through substations, transformers and other points of interest. Based on that measured data we offer a series of tools to support our clients, like billing automation, energy recovery and other critical services.",
+    "highlights": [
+      "Migrating our build, CI and test infrastructure to Microsoft Azure",
+      "Migrating our build server from Jenkins to TeamCity",
+      "Adding a sane deployment workflow with Octopus Deploy",
+      "Leading the deployment of TeamCity and Octopus Deploy inside the regulatory agency of electricity in Brazil",
+      "Splitting our big monolithic service into a client/server architecture allowing us to scale very easily",
+      "Leading migration of our dashboards from Silverlight/WCF to WebApi and modern web techniques"
+    ]
+  }, {
+    "company": "Tecnologia Única",
+    "position": "Developer",
+    "website": "http://tecnologiaunica.com.br/",
+    "startDate": "2011-06-01",
+    "endDate": "2013-04-01",
+    "summary": "Tecnologia Única is a company specialized in two sectors: reinsurance systems and loyalty programs management system. I worked on the team of the app that manages loyalty programs campaigns. This app is used by major banks, credit cards and loyalty programs in Brazil, Spain, Italy and Portugal as Itau, Santander, Bradesco, American Express, Europeans Banks and DOTZ.  The app manages the entire workflow of a loyalty campaign, from the first contact with the end user, with custom made e-shops, through the delivery of the product to the final customer.",
+    "highlights": [
+      "Createing some heavy integrations with third party warehouses, banks and credit card companies",
+      "Creating a prototype realtime sales dashboard that eventually turned into a product"
+    ]
+  }, {
+    "company": "Unic Learning",
+    "position": "CTO / Co-founder",
+    "website": "http://uniclearning.com.br",
+    "startDate": "2012-02-01",
+    "summary": "Unic is focused on e-learning. My dad and I founded this project. I'm in charge of the app (both user portal and admin section) and he's in charge of the content and sales. Our initial focus was on the content creators, not the content consumers, but my dad's trainings are doing so well that we didn't started sales focusing on content creators yet. He's just creating more content and we're investing in adwords. My dad is a really smart guy with lots of knowledge around financial institutions and stock market and people are enjoying his trainings, since he has +40 years of experience in that area.",
+    "highlights": [
+      "Building the entire thing from the ground up"
+    ]
+  }],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [{
+    "name": "Client",
+    "level": "",
+    "keywords": [
+      "HTML5",
+      "CSS3",
+      "ES6",
+      "Gulp",
+      "Knockout",
+      "Angular",
+      "React",
+      "KendoUI"
+    ]
+  }, {
+    "name": "Server",
+    "level": "",
+    "keywords": [
+      "ASP.NET",
+      "Nancy",
+      "Node.JS"
+    ]
+  }, {
+    "name": "Data",
+    "level": "",
+    "keywords": [
+      "SQL Server",
+      "elasticsearch",
+      "RethinkDB",
+      "Redis"
+    ]
+  }, {
+    "name": "Other",
+    "level": "",
+    "keywords": [
+      "Octopus Deploy",
+      "TeamCity",
+      "Azure",
+      "git",
+      "SignalR",
+      "Devops",
+      "Dataflow Library"
+    ]
+  }],
+  "languages": [{
+    "language": "Portuguese",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "Intermediate"
+  }, {
+    "language": "Spanish",
+    "fluency": "Basic"
+  }],
+  "interests": [{
+    "name": "Life",
+    "keywords": [
+      "Movies",
+      "Driving",
+      "Traveling",
+      "Music production"
+    ]
+  }, {
+    "name": "Latest tech hype",
+    "keywords": [
+      "Docker",
+      "Microservices",
+      "Isomorphic apps",
+      "Realtime apps"
+    ]
+  }],
+  "references": []
+}
